@@ -1,2 +1,2 @@
-# silver-sniffle
+# 机器学习
 使用python来实现机器学习算法
